@@ -1,5 +1,5 @@
 # I. Introduction
-As the holiday season approaches, the Marketing Department is preparing a series of campaigns to express appreciation to our customers. In addition, the Marketing Director has proposed using the RFM model to segment our customer. This model will help us identify valuable customer segments, particularly those with high potential to become long-term, loyal customers.
+As the holiday season approaches, the Marketing Department is preparing a series of campaigns to express appreciation to our customers. In addition, the Marketing Director has proposed using the RFM model to segment our customers. This model will help us identify valuable customer segments, particularly those with high potential to become long-term, loyal customers.
 
 ## 1. What is the RFM model
 In RFM analysis, customers are scored based on three factors (Recency - Frequency - Monetary), then labeled based on the combination of RFM scores.
@@ -23,8 +23,12 @@ This is a transnational dataset, which contains all the transactions occurring b
 - CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 - Country: Country name. Nominal, the name of the country where each customer resides.
 
-# II. Data processing by Python 
-You can check it out at the below link: 
+My project has 2 parts:
+- Part 1: Data processing with Python (including EDA, Wrangling data, and visualization)
+- Part 2: Customers Analysis
+  
+# Part 1: Data processing with Python 
+You can check it out at this link: 
 https://colab.research.google.com/drive/1FXAO1v8xRu49wbNgPDl74wr00Xph-3rV#scrollTo=tz-eDxEJsJ_8
 
 After data processing, I created a customer segmentation table: 
@@ -33,3 +37,4 @@ After data processing, I created a customer segmentation table:
 This is the segmentation criteria table, which the Marketing Department provided
 ![image](https://github.com/user-attachments/assets/af247523-202b-4ab0-8ec7-061777ed8b25)
 
+# Part 2: Customers Analysis 
