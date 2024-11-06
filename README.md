@@ -23,7 +23,7 @@ This is a transnational dataset, which contains all the transactions occurring b
 - CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 - Country: Country name. Nominal, the name of the country where each customer resides.
 
-My project has 2 parts:
+### My project has 2 parts:
 - Part 1: Data processing with Python (including EDA, Wrangling data, and visualization)
 - Part 2: Customers Analysis
   
