@@ -87,6 +87,8 @@ Observing the chart, we can see:
 - Lost Customers (11.18%) & New Customers (6.18%) represent a small but important group. Promotional campaigns could be launched to improve these two customer segments.
 
 ### 2. Segment by Total Sales
+![image](https://github.com/user-attachments/assets/51a2ebf1-6b99-4dd3-866f-2ffe5f50a355)
+
 - Champions (62.92%) account for the majority of total sales, contributing primarily to revenue. This aligns with their high frequency and monetary value.
 
 - Loyal Customers (11.43%) also contribute significantly to sales, followed by At-Risk (8.45%) and Need Attention (5.26%).
